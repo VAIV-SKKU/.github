@@ -9,6 +9,8 @@
 # Repository 설명
 ### Data
 - 캔들 스틱 주가 차트 이미지 생성 및 라벨링 프로그램 코드.
+### YOLO-Train
+- Yolo 모델의 훈련 및 예측 프로그램 코드.
 ### YOLO-Profit-Calculation
 - Yolo 모델을 통해 검출된 매수/매도 시점을 기반으로 수익률 계산하는 프로그램 코드. 
 ### CNN_Prediction
